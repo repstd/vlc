@@ -52,4 +52,5 @@ include/vlc/libvlc_version.h
 build*
 contrib-*
 install-*
+contrib
 
